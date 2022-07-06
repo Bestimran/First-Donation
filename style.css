@@ -82,11 +82,13 @@ small{
     font-weight: bold;
     font-size: 20px;
     color:gray;
+    border-radius: 4px;
 }
-.li-color{
-  border: 1.5px solid orangered;
+.li-color#count-2{
+    background-color:rgb(249, 223, 221);
+    border: 1.8px solid orangered;
+    color: tomato;
 }
-
 .text-type{
     width: 50%;
     text-align: center;
@@ -105,5 +107,42 @@ small{
     border-radius: 10px;
     color: white;
     margin-right: 40px;
+}
+.donate-plan{
+    width: fit-content;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 300px;
+   
+}
+.donate-plan h1{
+    color: black;
+    font-size: 50px;
+    
+}
+.donate-plan p{
+    font-size: 20px;
+    color: gray;
+  
+}
+.help-info{
+    width: 80%;
+    display: flex;
+    margin-left: 140px;
+    margin-top: 30px
+
+}
+
+.content{
+    padding: 50px 10px;
+    background-color: rgb(243, 219, 223);
+    margin: 10px;
+    border-radius: 5px;
+}
+.content#First{
+    background-color:rgb(232, 238, 238);
+}
+.content#third{
+    background-color: rgb(250, 236, 219);
 }
 
