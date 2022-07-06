@@ -52,3 +52,58 @@ small{
     border-radius: 10px;
     color: white;
 }
+.info-area-two{
+    width: 100%;
+    text-align: center;
+    margin-top: 150px;
+     
+}
+.info-area-two h1{
+    color:black;
+    font-size: 50px;
+    
+}
+.info-area-two p{
+    font-size: 20px;
+    color: gray;
+
+}
+.count{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 220px;
+   
+}
+.count li{
+    margin-right: 55px;
+    background-color: aliceblue;
+    padding: 25px 20px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+    color:gray;
+}
+.li-color{
+  border: 1.5px solid orangered;
+}
+
+.text-type{
+    width: 50%;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 330px;
+}
+.text-type input{
+    border: none;
+}
+.text-type a{
+    text-decoration: none;
+}
+.button-1{
+    background-color:tomato;
+    padding: 10px 40px ;
+    border-radius: 10px;
+    color: white;
+    margin-right: 40px;
+}
+
