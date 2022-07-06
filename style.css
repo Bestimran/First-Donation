@@ -71,7 +71,7 @@ small{
 .count{
     display: flex;
     flex-wrap: wrap;
-    margin-left: 190px;
+    margin-left: 170px;
    
 }
 .count li{
@@ -217,7 +217,7 @@ small{
 #subscribe{
     display: flex;
     margin-top: 100px;
-    margin-left: 500px;
+    margin-left: 300px;
     margin-right: 110px;
    
 }
